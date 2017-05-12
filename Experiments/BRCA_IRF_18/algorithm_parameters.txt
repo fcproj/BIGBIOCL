@@ -1,0 +1,10 @@
+ITERATIVE RANDOM FOREST
+5 TREES
+16 BINS
+STOP: FMEASURE < 0.97 OR #ITER>1000
+
+EXECUTION ENVIRONMENT
+Spark Standalone Mode
+7 cores
+18 GB RAM (default memory fraction 0.7)
+

@@ -1,0 +1,313 @@
+TreeEnsembleModel classifier with 10 trees
+
+  Tree 0:
+    If (feature 241179 <= 0.867335355408162)
+     If (feature 38054 <= 0.880752565963513)
+      If (feature 427200 <= 0.810215102712684)
+       If (feature 262209 <= 0.100899436943179)
+        Predict: 0.0
+       Else (feature 262209 > 0.100899436943179)
+        Predict: 1.0
+      Else (feature 427200 > 0.810215102712684)
+       Predict: 1.0
+     Else (feature 38054 > 0.880752565963513)
+      If (feature 448079 <= 0.0548796401422481)
+       Predict: 0.0
+      Else (feature 448079 > 0.0548796401422481)
+       Predict: 1.0
+    Else (feature 241179 > 0.867335355408162)
+     If (feature 224656 <= 0.46159769112971)
+      If (feature 76661 <= 0.0103477137299613)
+       Predict: 0.0
+      Else (feature 76661 > 0.0103477137299613)
+       Predict: 1.0
+     Else (feature 224656 > 0.46159769112971)
+      If (feature 173934 <= 0.579356047035031)
+       Predict: 1.0
+      Else (feature 173934 > 0.579356047035031)
+       If (feature 87987 <= 0.624462165630046)
+        Predict: 1.0
+       Else (feature 87987 > 0.624462165630046)
+        Predict: 0.0
+  Tree 1:
+    If (feature 300541 <= 0.878670357469764)
+     If (feature 220667 <= 0.728147290882909)
+      If (feature 439750 <= 0.689551805789376)
+       If (feature 412075 <= 0.859576651382927)
+        Predict: 0.0
+       Else (feature 412075 > 0.859576651382927)
+        Predict: 1.0
+      Else (feature 439750 > 0.689551805789376)
+       If (feature 51261 <= 0.0421389488065097)
+        Predict: 0.0
+       Else (feature 51261 > 0.0421389488065097)
+        Predict: 1.0
+     Else (feature 220667 > 0.728147290882909)
+      If (feature 77512 <= 0.845888008290063)
+       Predict: 1.0
+      Else (feature 77512 > 0.845888008290063)
+       If (feature 333792 <= 0.0323453074546033)
+        Predict: 0.0
+       Else (feature 333792 > 0.0323453074546033)
+        Predict: 1.0
+    Else (feature 300541 > 0.878670357469764)
+     If (feature 205359 <= 0.368998931484486)
+      If (feature 352266 <= 0.837374604337601)
+       Predict: 0.0
+      Else (feature 352266 > 0.837374604337601)
+       Predict: 1.0
+     Else (feature 205359 > 0.368998931484486)
+      If (feature 253987 <= 0.868023644344426)
+       Predict: 1.0
+      Else (feature 253987 > 0.868023644344426)
+       Predict: 0.0
+  Tree 2:
+    If (feature 270738 <= 0.807473451805383)
+     If (feature 11071 <= 0.841963657678852)
+      If (feature 46782 <= 0.0153853085329727)
+       Predict: 0.0
+      Else (feature 46782 > 0.0153853085329727)
+       Predict: 1.0
+     Else (feature 11071 > 0.841963657678852)
+      Predict: 1.0
+    Else (feature 270738 > 0.807473451805383)
+     If (feature 233192 <= 0.67105777156472)
+      If (feature 176643 <= 0.761850484222294)
+       Predict: 0.0
+      Else (feature 176643 > 0.761850484222294)
+       Predict: 1.0
+     Else (feature 233192 > 0.67105777156472)
+      If (feature 203301 <= 0.831586132613768)
+       If (feature 448781 <= 0.0345300401959011)
+        Predict: 1.0
+       Else (feature 448781 > 0.0345300401959011)
+        If (feature 403696 <= 0.0381526686824541)
+         Predict: 0.0
+        Else (feature 403696 > 0.0381526686824541)
+         Predict: 1.0
+      Else (feature 203301 > 0.831586132613768)
+       If (feature 482980 <= 0.711513832599494)
+        Predict: 1.0
+       Else (feature 482980 > 0.711513832599494)
+        Predict: 0.0
+  Tree 3:
+    If (feature 14629 <= 0.165456536337646)
+     If (feature 272714 <= 0.620949296137411)
+      Predict: 1.0
+     Else (feature 272714 > 0.620949296137411)
+      If (feature 383755 <= 0.705556952982166)
+       If (feature 132480 <= 0.777617120625762)
+        Predict: 1.0
+       Else (feature 132480 > 0.777617120625762)
+        Predict: 0.0
+      Else (feature 383755 > 0.705556952982166)
+       If (feature 331895 <= 0.938790834421564)
+        Predict: 1.0
+       Else (feature 331895 > 0.938790834421564)
+        Predict: 0.0
+    Else (feature 14629 > 0.165456536337646)
+     If (feature 419787 <= 0.982755819926201)
+      If (feature 192416 <= 0.781243313721233)
+       If (feature 414647 <= 0.964619858966317)
+        Predict: 1.0
+       Else (feature 414647 > 0.964619858966317)
+        Predict: 0.0
+      Else (feature 192416 > 0.781243313721233)
+       If (feature 385394 <= 0.407482230189801)
+        If (feature 115084 <= 0.101210637043086)
+         Predict: 1.0
+        Else (feature 115084 > 0.101210637043086)
+         Predict: 0.0
+       Else (feature 385394 > 0.407482230189801)
+        If (feature 425954 <= 0.414760608559365)
+         Predict: 1.0
+        Else (feature 425954 > 0.414760608559365)
+         Predict: 1.0
+     Else (feature 419787 > 0.982755819926201)
+      If (feature 142114 <= 0.496645298236881)
+       Predict: 1.0
+      Else (feature 142114 > 0.496645298236881)
+       Predict: 0.0
+  Tree 4:
+    If (feature 265029 <= 0.224996792551941)
+     If (feature 145015 <= 0.635936441365457)
+      If (feature 36493 <= 0.630301624706539)
+       Predict: 1.0
+      Else (feature 36493 > 0.630301624706539)
+       If (feature 453246 <= 0.354146738827102)
+        Predict: 0.0
+       Else (feature 453246 > 0.354146738827102)
+        Predict: 1.0
+     Else (feature 145015 > 0.635936441365457)
+      If (feature 284296 <= 0.548020348727451)
+       If (feature 282796 <= 0.871827014369283)
+        Predict: 1.0
+       Else (feature 282796 > 0.871827014369283)
+        Predict: 0.0
+      Else (feature 284296 > 0.548020348727451)
+       If (feature 153841 <= 0.286268554207674)
+        Predict: 0.0
+       Else (feature 153841 > 0.286268554207674)
+        Predict: 1.0
+    Else (feature 265029 > 0.224996792551941)
+     If (feature 115204 <= 0.620664965940072)
+      If (feature 230742 <= 0.87083648130273)
+       Predict: 1.0
+      Else (feature 230742 > 0.87083648130273)
+       If (feature 272114 <= 0.729088368482607)
+        Predict: 0.0
+       Else (feature 272114 > 0.729088368482607)
+        Predict: 1.0
+     Else (feature 115204 > 0.620664965940072)
+      If (feature 156787 <= 0.45640147791835)
+       Predict: 0.0
+      Else (feature 156787 > 0.45640147791835)
+       Predict: 1.0
+  Tree 5:
+    If (feature 278237 <= 0.0371044065784527)
+     If (feature 438713 <= 0.544575539958775)
+      If (feature 46745 <= 0.567668214327282)
+       Predict: 1.0
+      Else (feature 46745 > 0.567668214327282)
+       If (feature 64144 <= 0.141312736923999)
+        Predict: 1.0
+       Else (feature 64144 > 0.141312736923999)
+        If (feature 335935 <= 0.846106331559458)
+         Predict: 1.0
+        Else (feature 335935 > 0.846106331559458)
+         Predict: 0.0
+     Else (feature 438713 > 0.544575539958775)
+      Predict: 1.0
+    Else (feature 278237 > 0.0371044065784527)
+     If (feature 159835 <= 0.0150891614105549)
+      If (feature 462563 <= 0.283322914214923)
+       Predict: 0.0
+      Else (feature 462563 > 0.283322914214923)
+       Predict: 1.0
+     Else (feature 159835 > 0.0150891614105549)
+      If (feature 333316 <= 0.931023023908073)
+       Predict: 1.0
+      Else (feature 333316 > 0.931023023908073)
+       If (feature 161877 <= 0.103438042783879)
+        Predict: 1.0
+       Else (feature 161877 > 0.103438042783879)
+        Predict: 0.0
+  Tree 6:
+    If (feature 69761 <= 0.430637187941563)
+     If (feature 309454 <= 0.278771770857817)
+      Predict: 1.0
+     Else (feature 309454 > 0.278771770857817)
+      If (feature 135911 <= 0.308511212772989)
+       If (feature 6870 <= 0.0603419149268498)
+        Predict: 1.0
+       Else (feature 6870 > 0.0603419149268498)
+        If (feature 89831 <= 0.0879274621751615)
+         Predict: 0.0
+        Else (feature 89831 > 0.0879274621751615)
+         Predict: 1.0
+      Else (feature 135911 > 0.308511212772989)
+       Predict: 1.0
+    Else (feature 69761 > 0.430637187941563)
+     If (feature 185181 <= 0.973807320002109)
+      Predict: 1.0
+     Else (feature 185181 > 0.973807320002109)
+      If (feature 257751 <= 0.0721244064668297)
+       If (feature 329108 <= 0.0208720022270421)
+        Predict: 1.0
+       Else (feature 329108 > 0.0208720022270421)
+        Predict: 0.0
+      Else (feature 257751 > 0.0721244064668297)
+       Predict: 1.0
+  Tree 7:
+    If (feature 31428 <= 0.448533203669895)
+     If (feature 395781 <= 0.506423741241749)
+      If (feature 245682 <= 0.760133516018423)
+       Predict: 1.0
+      Else (feature 245682 > 0.760133516018423)
+       If (feature 468595 <= 0.960500282819591)
+        Predict: 0.0
+       Else (feature 468595 > 0.960500282819591)
+        Predict: 1.0
+     Else (feature 395781 > 0.506423741241749)
+      If (feature 338212 <= 0.976520200740849)
+       If (feature 27391 <= 0.763899872354337)
+        If (feature 369701 <= 0.946540440040675)
+         Predict: 1.0
+        Else (feature 369701 > 0.946540440040675)
+         Predict: 1.0
+       Else (feature 27391 > 0.763899872354337)
+        Predict: 0.0
+      Else (feature 338212 > 0.976520200740849)
+       If (feature 265846 <= 0.348264275860571)
+        Predict: 0.0
+       Else (feature 265846 > 0.348264275860571)
+        Predict: 1.0
+    Else (feature 31428 > 0.448533203669895)
+     If (feature 154652 <= 0.7903242032762)
+      If (feature 398719 <= 0.0204317120839461)
+       Predict: 0.0
+      Else (feature 398719 > 0.0204317120839461)
+       Predict: 1.0
+     Else (feature 154652 > 0.7903242032762)
+      Predict: 1.0
+  Tree 8:
+    If (feature 256115 <= 0.363064954126234)
+     If (feature 304891 <= 0.749925741180223)
+      If (feature 361915 <= 0.940087762696793)
+       If (feature 289797 <= 0.0269878886191247)
+        Predict: 1.0
+       Else (feature 289797 > 0.0269878886191247)
+        Predict: 0.0
+      Else (feature 361915 > 0.940087762696793)
+       Predict: 0.0
+     Else (feature 304891 > 0.749925741180223)
+      If (feature 429214 <= 0.689656017500555)
+       If (feature 27050 <= 0.462606836055531)
+        Predict: 0.0
+       Else (feature 27050 > 0.462606836055531)
+        Predict: 1.0
+      Else (feature 429214 > 0.689656017500555)
+       If (feature 320007 <= 0.276706433486368)
+        Predict: 1.0
+       Else (feature 320007 > 0.276706433486368)
+        Predict: 0.0
+    Else (feature 256115 > 0.363064954126234)
+     If (feature 47835 <= 0.920744366523219)
+      If (feature 354186 <= 0.846347206802625)
+       Predict: 1.0
+      Else (feature 354186 > 0.846347206802625)
+       If (feature 157102 <= 0.265585113215262)
+        Predict: 0.0
+       Else (feature 157102 > 0.265585113215262)
+        Predict: 1.0
+     Else (feature 47835 > 0.920744366523219)
+      If (feature 142044 <= 0.236788972006797)
+       Predict: 0.0
+      Else (feature 142044 > 0.236788972006797)
+       Predict: 1.0
+  Tree 9:
+    If (feature 147999 <= 0.0701395368716721)
+     If (feature 170579 <= 0.485775740241347)
+      If (feature 384465 <= 0.0139680947802314)
+       Predict: 0.0
+      Else (feature 384465 > 0.0139680947802314)
+       If (feature 408145 <= 0.257754235321779)
+        Predict: 1.0
+       Else (feature 408145 > 0.257754235321779)
+        Predict: 0.0
+     Else (feature 170579 > 0.485775740241347)
+      If (feature 272227 <= 0.825436764579158)
+       Predict: 1.0
+      Else (feature 272227 > 0.825436764579158)
+       If (feature 211898 <= 0.91905238151143)
+        Predict: 0.0
+       Else (feature 211898 > 0.91905238151143)
+        Predict: 1.0
+    Else (feature 147999 > 0.0701395368716721)
+     If (feature 206475 <= 0.464646693599864)
+      If (feature 217309 <= 0.674292052880768)
+       Predict: 1.0
+      Else (feature 217309 > 0.674292052880768)
+       Predict: 0.0
+     Else (feature 206475 > 0.464646693599864)
+      Predict: 1.0
