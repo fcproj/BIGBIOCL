@@ -1,9 +1,9 @@
 # BIGBIOCL
 Software for the analysis of DNA methylation large datasets for the identification of drivers of tumors
   
-Scientific paper of this reaserch in on press.
+A Scientific article of this reaserch will be provided soon.
   
-The description of the project, of our experiments, and of the software to replicate or run new experiments is available in the [wiki](https://github.com/fcproj/BIGBIOCL/wiki).
+The description of the project, of our experiments, and of the software to replicate or run new experiments is available in the [wiki section](https://github.com/fcproj/BIGBIOCL/wiki).
   
 Directories contain:
 * __Experiments__: results of our experiments
