@@ -1,0 +1,64 @@
+=======================================================
+=== ITERATION 0 ===
+BUILDING model: 1271 seconds
+F-Measure on test data: 99.38%
+EVALUATION of the model (test data): 155 seconds
+F-Measure on training data: 99.91%
+EVALUATION of the model (training data): 305 seconds
+OVERALL TIME 1580 seconds
+=======================================================
+=== ITERATION 1 ===
+BUILDING model: 2915 seconds
+F-Measure on test data: 98.74%
+EVALUATION of the model (test data): 155 seconds
+F-Measure on training data: 99.82%
+EVALUATION of the model (training data): 305 seconds
+OVERALL TIME 3221 seconds
+=======================================================
+=== ITERATION 2 ===
+BUILDING model: 4576 seconds
+F-Measure on test data: 99.04%
+EVALUATION of the model (test data): 153 seconds
+F-Measure on training data: 100.00%
+EVALUATION of the model (training data): 305 seconds
+OVERALL TIME 4882 seconds
+=======================================================
+=== ITERATION 3 ===
+BUILDING model: 6226 seconds
+F-Measure on test data: 98.89%
+EVALUATION of the model (test data): 157 seconds
+F-Measure on training data: 99.91%
+EVALUATION of the model (training data): 310 seconds
+OVERALL TIME 6536 seconds
+=======================================================
+=== ITERATION 4 ===
+BUILDING model: 7846 seconds
+F-Measure on test data: 99.35%
+EVALUATION of the model (test data): 160 seconds
+F-Measure on training data: 99.82%
+EVALUATION of the model (training data): 315 seconds
+OVERALL TIME 8162 seconds
+=======================================================
+=== ITERATION 5 ===
+BUILDING model: 9519 seconds
+F-Measure on test data: 98.49%
+EVALUATION of the model (test data): 159 seconds
+F-Measure on training data: 99.91%
+EVALUATION of the model (training data): 313 seconds
+OVERALL TIME 9833 seconds
+=======================================================
+=== ITERATION 6 ===
+BUILDING model: 11006 seconds
+F-Measure on test data: 98.64%
+EVALUATION of the model (test data): 152 seconds
+F-Measure on training data: 99.91%
+EVALUATION of the model (training data): 303 seconds
+OVERALL TIME 11310 seconds
+=======================================================
+=== ITERATION 7 ===
+BUILDING model: 12648 seconds
+F-Measure on test data: 97.99%
+EVALUATION of the model (test data): 153 seconds
+F-Measure on training data: 100.00%
+EVALUATION of the model (training data): 303 seconds
+OVERALL TIME 12952 seconds

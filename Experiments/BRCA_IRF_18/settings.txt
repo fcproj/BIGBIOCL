@@ -1,0 +1,14 @@
+ITERATIVE RANDOM FOREST
+=======================================
+NUMBER OF TREES: 10
+MAX BINS: 16
+MAX DEPTH: 5
+
+STOPPING CONDITION: FMEASURE < 0.97 OR #ITER>1000
+
+EXECUTION ENVIRONMENT
+SPARK: 2.1.1 in Standalone Mode
+JAVA: Oracle jdk1.8.0_131
+7 cores
+18 GB RAM (default memory fraction 0.7)
+
