@@ -1,7 +1,7 @@
 # COMING SOON...
 
 # BIGBIOCL
-Software for the analysis of DNA methylation large datasets for the identification of drivers of tumors
+Software for the analysis of DNA methylation large datasets for the identification of drivers of tumors (the software can be applied to different data with similar structure)
   
 A Scientific article of this reaserch will be provided soon.
   
