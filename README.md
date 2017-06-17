@@ -12,3 +12,6 @@ Directories contain:
 * __Software__: the JAVA code to run standalone applications or submit Spark Jobs
 * __Support Files__: mapping files and other files needed to replicate our experiments, or as a guideline to run new experiments
   
+## License
+
+GNU General Public License version 3 (GPL-3.0). See [Legal Code](https://github.com/fcproj/agrotagger/blob/master/agrotagger/LICENSE)
