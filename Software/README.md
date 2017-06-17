@@ -19,4 +19,4 @@ You will find the created zip file in the directory `executable`, together with 
 
 ### License
 
-GNU General Public License version 3 (GPL-3.0). See [Legal Code](https://github.com/fcproj/BIGBIOCL/blob/master/Software/LICENSE)
+GNU General Public License version 3 (GPL-3.0). 
