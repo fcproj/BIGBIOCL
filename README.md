@@ -1,7 +1,7 @@
 # COMING SOON...
 
 # BIGBIOCL
-Software for the analysis of DNA methylation large datasets for the identification of drivers of tumors (the software can be applied to different data with similar structure).
+Software for efficient analysis of biological large datasets. As an example, BIGBIOCL can be used on DNA methylation data for the identification of drivers of tumors.
   
 A Scientific article of this reaserch will be provided soon.
   
@@ -14,4 +14,4 @@ Directories contain:
   
 ## License
 
-GNU General Public License version 3 (GPL-3.0). See [Legal Code](https://github.com/fcproj/BIGBIOCL/blob/master/Software/LICENSE)
+GNU General Public License version 3 (GPL-3.0)
