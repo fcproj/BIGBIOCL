@@ -1,5 +1,3 @@
-# COMING SOON...
-
 # BIGBIOCL
 Software for efficient analysis of biological large datasets. As an example, BIGBIOCL can be used on DNA methylation data for the identification of drivers of tumors.
   
