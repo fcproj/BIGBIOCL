@@ -5,7 +5,7 @@ This software supports the BIGBIOCL project. Please, refer to the [Wiki page](ht
 ### REQUIREMENTS ###
 * [JAVA 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Apache Spark](http://spark.apache.org/downloads.html) (better if >= 2.1.1)
-* [maven](http://maven.apache.org/download.cgi) >= 3.0.3 (to edit the code and build a new jar: you can also work with the provided JAR)
+* [maven](http://maven.apache.org/download.cgi) >= 3.0.3 (to edit the code and build a new jar)
 
 ### The Maven project
 
