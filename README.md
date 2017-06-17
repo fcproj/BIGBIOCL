@@ -14,4 +14,4 @@ Directories contain:
   
 ## License
 
-GNU General Public License version 3 (GPL-3.0). See [Legal Code](https://github.com/fcproj/agrotagger/blob/master/agrotagger/LICENSE)
+GNU General Public License version 3 (GPL-3.0). See [Legal Code](https://github.com/fcproj/BIGBIOCL/blob/master/Software/LICENSE)
