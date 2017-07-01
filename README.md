@@ -1,3 +1,5 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+
 # BIGBIOCL
 Software for efficient analysis of biological large datasets. As an example, BIGBIOCL can be used with DNA methylation data for the identification of drivers of tumors.
   
