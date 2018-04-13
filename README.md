@@ -3,7 +3,7 @@
 # BIGBIOCL
 Software for efficient analysis of biological large datasets. As an example, BIGBIOCL can be used with DNA methylation data for the identification of drivers of tumors.
   
-A scientific publication about this reaserch will be provided later on.
+The scientific publication about BigBioCl is availble at: F. Celli, F. Cumbo, E. Weitschek: Classification of Large DNA Methylation Datasets for Identifying Cancer Drivers. Big Data Research, 10.1016/j.bdr.2018.02.005, 2018.
   
 The description of the project, of our experiments, and of the software is available in the [wiki section](https://github.com/fcproj/BIGBIOCL/wiki).
   
